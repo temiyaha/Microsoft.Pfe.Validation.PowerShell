@@ -1,0 +1,4 @@
+Category,ValidatorName,ValidatorParameter,DesiredValue
+MyCategory,Microsoft.Pfe.WindowsService,"{ TargetServer:'localhost', ServiceName:'Spooler' }",Running
+MyCategory,Microsoft.Pfe.WindowsService,"{ TargetServer:'localhost', ServiceName:'LanmanServer' }",Running
+MyCategory,Microsoft.Pfe.WindowsService,"{ TargetServer:'localhost', ServiceName:'MSSQL$HOTFIXDB' }",Running
